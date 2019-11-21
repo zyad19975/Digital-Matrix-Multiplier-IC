@@ -1,4 +1,5 @@
-# Matrix-Multiplier
+# Digital Matrix-Multiplier IC
+
 
 1. Grab a copy of this repository to your computer's local folder (i.e. C:\projects):
 
