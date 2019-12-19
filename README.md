@@ -5,7 +5,7 @@
 
     ```sh
     $ cd projects
-    $ git clone https://github.com/zyad19975/Matrix-Multiplier
+    $ git clone https://github.com/zyad19975/Digital-Matrix-Multiplier-IC.git
     ```
 2. Use Visual Studio Code (VSC) to edit and view the design files:
 
